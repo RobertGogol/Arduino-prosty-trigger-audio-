@@ -15,5 +15,5 @@ czyli 1023/2=ca.512  np. 400-512 lub 512-612
 
 -400 to czulosc bardzo niska
 
-![Mount](images/detektor.jpeg)
+![Mount](detektor.jpeg)
 
