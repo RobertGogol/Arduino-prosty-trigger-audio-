@@ -1,5 +1,3 @@
-![Mount](images/dummies.jpg)
-
 ## PROSTY TRIGGER AUDIO
 
 1.podawany sygnał dostosowac korektorem graficznym / filtrem tak aby uwypuklic 
@@ -15,5 +13,7 @@ czyli 1023/2=ca.512  np. 400-512 lub 512-612
 
 -470 to czulosc sredna
 
--400 to czulosc bardzo niska 
+-400 to czulosc bardzo niska
+
+![Mount](images/detektor.jpeg)
 
