@@ -1,4 +1,6 @@
-PROSTY TRIGGER AUDIO
+![Mount](images/dummies.jpg)
+
+## PROSTY TRIGGER AUDIO
 
 1.podawany sygnał dostosowac korektorem graficznym / filtrem tak aby uwypuklic 
 pasmo, ktore ma triggerować uklad
