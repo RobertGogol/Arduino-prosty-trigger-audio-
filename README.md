@@ -10,5 +10,7 @@ czyli 1023/2=ca.512  np. 400-512 lub 512-612
 -470 to czułość średna  
 -400 to czułość bardzo niska
 
+w ilustracji poniżej: zielona falka z czerwonymi blinkami to waveform audio :) 
+
 ![Mount](detektor.jpeg)
 
